@@ -1,6 +1,6 @@
 // Code to measure the delta between two inertial measurement units
 // And to send the data to a mobile phone using Bluetooth.
-// Adapted by Anouk de Graaf
+// Adapted by Anouk
 
 #include<Wire.h>
 
